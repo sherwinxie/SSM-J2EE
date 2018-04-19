@@ -1,0 +1,17 @@
+com/crud/bean/Msg.class
+com/crud/bean/EmployeeExample.class
+com/crud/bean/DepartmentExample$GeneratedCriteria.class
+com/crud/bean/DepartmentExample$Criteria.class
+com/crud/controller/DepartmentController.class
+com/crud/controller/EmployeeController.class
+com/crud/bean/DepartmentExample$Criterion.class
+com/crud/bean/Department.class
+com/crud/bean/EmployeeExample$Criterion.class
+com/crud/service/EmployeeService.class
+com/crud/dao/DepartmentMapper.class
+com/crud/dao/EmployeeMapper.class
+com/crud/bean/EmployeeExample$Criteria.class
+com/crud/bean/EmployeeExample$GeneratedCriteria.class
+com/crud/bean/Employee.class
+com/crud/service/DepartmentService.class
+com/crud/bean/DepartmentExample.class
