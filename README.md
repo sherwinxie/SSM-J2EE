@@ -1,5 +1,5 @@
 # SSM练手项目-CRUD（RESTful）
-SSM练手项目,实现一个简单的信息管理系统，即CRUD操作 (RESTful style) 附架构图：
+SSM练手项目,实现一个简单的信息管理系统，即CRUD操作 (RESTful style).
 ## 系统架构
 ![业务架构](https://github.com/sherwinxie/SSM_J2EE/blob/master/ImgREADME/main.jpg)
 
